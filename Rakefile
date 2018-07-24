@@ -23,4 +23,3 @@ namespace :db do
     Pry.start
   end
 end
-
